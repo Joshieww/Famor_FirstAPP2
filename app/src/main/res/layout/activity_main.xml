@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rotationX="4"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="COURSE: Computer Science"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="444dp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Second Quarter Avg: 92"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="497dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TALENTS: Boxing,Swimming,Chess,Photography"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="392dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Address: Unit 214 Ubran Hives Bacaca Davao City"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="356dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Current School: Mapua Malayan Colleges of Mindanao"
+        tools:layout_editor_absoluteX="56dp"
+        tools:layout_editor_absoluteY="312dp" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="FIRST APP"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="67dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NAME: Joshua Martin Dela Cruz Famor"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="167dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gender: Male"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="203dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AGE:19"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="236dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gender: Male"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="273dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
